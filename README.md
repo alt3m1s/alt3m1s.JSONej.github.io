@@ -1,2 +1,2 @@
-# alt3m1s.JSONej.github.io
+# JSONej
 Resumen de JSON y su uso
